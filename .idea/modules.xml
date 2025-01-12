@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/ATM/ATM.iml" filepath="$PROJECT_DIR$/IdeaProjects/ATM/ATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Car Rental System/Car Rental System.iml" filepath="$PROJECT_DIR$/IdeaProjects/Car Rental System/Car Rental System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Coffee Vending Machine/Coffee Vending Machine.iml" filepath="$PROJECT_DIR$/IdeaProjects/Coffee Vending Machine/Coffee Vending Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Coffee Vending Machine II/Coffee Vending Machine II.iml" filepath="$PROJECT_DIR$/IdeaProjects/Coffee Vending Machine II/Coffee Vending Machine II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Snake and Ladder/Snake and Ladder.iml" filepath="$PROJECT_DIR$/IdeaProjects/Snake and Ladder/Snake and Ladder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SystemDesigns.iml" filepath="$PROJECT_DIR$/.idea/SystemDesigns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Tic-Tac_toe/Tic-Tac_toe.iml" filepath="$PROJECT_DIR$/IdeaProjects/Tic-Tac_toe/Tic-Tac_toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Trial/Trial.iml" filepath="$PROJECT_DIR$/IdeaProjects/Trial/Trial.iml" />
+    </modules>
+  </component>
+</project>
